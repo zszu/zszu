@@ -15,4 +15,4 @@
 </div>
 
 ## Hi!
-[![Lorin-github](https://github-readme-stats.vercel.app/api?username=zszu)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Lorin-github](https://github-readme-stats.vercel.app/api?username=zszu)](https://github.com/zszu/zszu) -->
